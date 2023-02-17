@@ -1,7 +1,9 @@
 Magic 8 Ball Chatbot: 
+
 This is a Python program that simulates a Magic 8 Ball, a toy used for fortune-telling or seeking advice. The user can ask a question, and the chatbot will generate a random response from a list of predetermined responses.
 
 Installation: 
+
 Install Python 3: This program requires Python 3 to be installed on your system. If you don't have Python 3 installed, you can download it from the official website: https://www.python.org/downloads/
 
 Clone or download the repository: You can clone the repository using git or download the zip file from the repository page on GitHub.
