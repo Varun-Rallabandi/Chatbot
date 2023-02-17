@@ -22,7 +22,7 @@ This program uses the random.choice method from the random module in Python to g
 
 The program uses a while loop to keep the program running until the user inputs "Q" to quit. The loop checks the user's input and generates a response using random.choice if the input is not "Q". If the input is "Q", the loop breaks, and the program exits.
 
-Customization
+Customization:
 You can customize the responses by modifying the responses list. You can add, remove, or modify the responses to make the chatbot more personalized.
 
 You can also add more features to the chatbot, such as saving the user's questions and responses to a file or database, or implementing a natural language processing (NLP) system to understand and respond to the user's questions more intelligently.
